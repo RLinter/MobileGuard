@@ -1,0 +1,45 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\" id=\"content\"><div index=\"3\" id=\"(name removed)\"></div><div index=\"4\"><div index=\"5\" id=\"(name removed)\"><div index=\"6\" id=\"(name removed)\"></div><div index=\"7\" id=\"(name removed)\"></div><div index=\"8\" id=\"(name removed)\"></div><div index=\"9\" id=\"(name removed)\"></div><div index=\"10\" id=\"(name removed)\"></div><div index=\"11\" id=\"(name removed)\"><div index=\"12\" id=\"(name removed)\" clickable=\"true\"><div index=\"13\" id=\"(name removed)\"><div index=\"14\" id=\"(name removed)\" clickable=\"true\"><div index=\"15\" clickable=\"true\" description=\"Back\"></div><div index=\"16\" clickable=\"true\" description=\"Richard Liao, Active 2 hours ago, Thread details\"><div index=\"17\" description=\"Active 2 hours ago\"></div></div><button index=\"18\" clickable=\"true\" description=\"Audio call\"></button><button index=\"19\" clickable=\"true\" long-clickable=\"true\" description=\"Video call\"></button><button index=\"20\" clickable=\"true\" description=\"Thread details\"></button></div><div index=\"21\"><div index=\"22\"><div index=\"23\"><div index=\"24\"><div index=\"25\" id=\"(name removed)\"><div index=\"26\" id=\"(name removed)\"><div index=\"27\" id=\"(name removed)\"><scroll index=\"28\" scrollable=\"true\"><div index=\"29\"><div index=\"30\"><div index=\"31\"><div index=\"32\" clickable=\"true\"><div index=\"33\" description=\"Sheng-Jyun, 原來Sean認識Anita\"></div></div></div></div></div><div index=\"34\" description=\"FRI AT 8:45 PM\"></div><div index=\"35\"><div index=\"36\"><div index=\"37\"><div index=\"38\" clickable=\"true\"><div index=\"39\" description=\"Sheng-Jyun, 我要去他家吃牛肉麵\"></div></div></div></div></div><div index=\"40\" description=\"FRI AT 9:13 PM\"></div><div index=\"41\"></div><div index=\"42\"></div></scroll></div></div></div></div></div><div index=\"43\" id=\"(name removed)\"><div index=\"44\" clickable=\"true\" description=\"Show more options.\"></div><div index=\"45\" clickable=\"true\" long-clickable=\"true\" description=\"Open camera.\"></div><div index=\"46\" clickable=\"true\" long-clickable=\"true\" description=\"Open photo gallery.\"></div><div index=\"47\" clickable=\"true\" long-clickable=\"true\" description=\"Open audio recorder.\"></div><div index=\"48\"><input index=\"49\" clickable=\"true\" long-clickable=\"true\" description=\"Type a message\"></input><div index=\"50\"><div index=\"51\"><div index=\"52\" clickable=\"true\" description=\"Open sticker, emoji and GIF keyboard.\"></div></div></div></div><div index=\"53\"><button index=\"54\" description=\"Send 👍\"></button></div><div index=\"55\" clickable=\"true\" selected=\"true\" description=\"Suggested\"></div><div index=\"56\" clickable=\"true\" description=\"Emoji\"></div><div index=\"57\" clickable=\"true\" description=\"Avatar stickers\"></div><div index=\"58\" clickable=\"true\" description=\"Stickers\"></div><div index=\"59\" clickable=\"true\" description=\"GIFs\"></div></div></div></div></div><div index=\"60\"><div index=\"61\"><div index=\"62\"><div index=\"63\"><div index=\"64\"><div index=\"65\"><div index=\"66\"></div></div><div index=\"67\"><div index=\"68\"><div index=\"69\" id=\"(name removed)\"><scroll index=\"70\" scrollable=\"true\"><div index=\"71\"><div index=\"72\"><input index=\"73\" clickable=\"true\" long-clickable=\"true\"></input></div></div><div index=\"74\"><div index=\"75\" description=\"Avatars\"></div><div index=\"76\" id=\"(name removed)\"><scroll index=\"77\" scrollable=\"true\"><div index=\"78\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker, Love have all\"></div><div index=\"79\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker, Avatar blowing kisses with their left hand. A red heart is seen flying.\"></div><div index=\"80\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker, Avatar is smiling softly, making a heart shape with fingers of both hands in front of their chest. Pinky-purple text below them reads \"I love you\".\"></div><div index=\"81\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker, Avatar is smiling with their mouth open and their head tilted to the side, their hands are up in front of them and making a heart shape with their fingers. \"></div><div index=\"82\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker, Avatar smiling and waving their right hand and peeping in from the left side of the frame. The word hi is written in white inside an orange rectangle speech bubble above them.\"></div><div index=\"83\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker, Avatar Sticker\"></div></scroll></div></div><div index=\"84\"><div index=\"85\" description=\"Stickers\"></div><div index=\"86\" id=\"(name removed)\"><scroll index=\"87\" scrollable=\"true\"><div index=\"88\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker\"></div><div index=\"89\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker\"></div><div index=\"90\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker\"></div><div index=\"91\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker\"></div><div index=\"92\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker\"></div><div index=\"93\" clickable=\"true\" long-clickable=\"true\" description=\"Sticker\"></div></scroll></div></div><div index=\"94\"><div index=\"95\" description=\"Gifs\"></div></div></scroll></div></div></div></div></div></div></div></div></div></div><div index=\"96\" id=\"(name removed)\"></div></div></div><div index=\"97\" id=\"(name removed)\"></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 19,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 48,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 54,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 73,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 78,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 79,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 80,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 81,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 82,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 83,
+            "type": "External Broadcast"
+        }
+    ]
+}

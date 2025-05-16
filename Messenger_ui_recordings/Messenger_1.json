@@ -1,0 +1,29 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\" id=\"content\"><div index=\"3\" id=\"(name removed)\"></div><div index=\"4\"><div index=\"5\" id=\"(name removed)\"><div index=\"6\" id=\"(name removed)\"></div><div index=\"7\" id=\"(name removed)\"></div><div index=\"8\" id=\"(name removed)\"></div><div index=\"9\" id=\"(name removed)\"></div><div index=\"10\" id=\"(name removed)\"></div><div index=\"11\" id=\"(name removed)\"><div index=\"12\"><div index=\"13\" id=\"(name removed)\"><div index=\"14\" clickable=\"true\" long-clickable=\"true\" description=\"Main menu\"><button index=\"15\" clickable=\"true\"></button></div><div index=\"16\" long-clickable=\"true\" description=\"Stories\"></div></div><div index=\"17\" id=\"(name removed)\"><div index=\"18\" id=\"(name removed)\"><scroll index=\"19\" id=\"(name removed)\"><div index=\"20\"><div index=\"21\" id=\"(name removed)\"><div index=\"22\" scrollable=\"true\"><div index=\"23\" clickable=\"true\"><div index=\"24\" clickable=\"true\" description=\"Add\"></div></div><div index=\"25\" clickable=\"true\" long-clickable=\"true\" description=\"碩's story 2 unread\"></div><div index=\"26\" clickable=\"true\" long-clickable=\"true\" description=\"登翔's story 2 unread\"></div><div index=\"27\" clickable=\"true\" long-clickable=\"true\" description=\"佳昕's story 2 unread\"></div><div index=\"28\" clickable=\"true\" long-clickable=\"true\" description=\"Harris's story 1 unread\"></div><div index=\"29\" clickable=\"true\" long-clickable=\"true\" description=\"芸萱's story 1 unread\"></div></div></div></div></scroll></div></div><div index=\"30\" id=\"(name removed)\"><div index=\"31\" clickable=\"true\" description=\"Chats, Tab 1 of 2\"></div><div index=\"32\" clickable=\"true\" selected=\"true\" description=\"Stories, Tab 2 of 2\"></div></div></div></div><div index=\"33\" id=\"(name removed)\"></div></div></div><div index=\"34\" id=\"(name removed)\"></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 24,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 25,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 26,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 27,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 28,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 29,
+            "type": "External Broadcast"
+        }
+    ]
+}

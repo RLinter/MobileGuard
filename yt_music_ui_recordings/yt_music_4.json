@@ -1,0 +1,9 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\" id=\"content\"><div index=\"3\" id=\"dialog_responsive_container\"><div index=\"4\" id=\"elements_dialog_fragment_elements_view\"><div index=\"5\"><scroll index=\"6\"><div index=\"7\"><div index=\"8\" description=\"New playlist\"></div><div index=\"9\" clickable=\"true\" long-clickable=\"true\"></div><div index=\"10\" clickable=\"true\" long-clickable=\"true\"></div><div index=\"11\" description=\"Privacy\"></div><div index=\"12\"><div index=\"13\" clickable=\"true\"><div index=\"14\"><img index=\"15\"></img><div index=\"16\" description=\"Public\"></div></div><img index=\"17\"></img></div></div><button index=\"18\" clickable=\"true\" description=\"Cancel\"><div index=\"19\" description=\"Cancel\"></div></button><button index=\"20\" clickable=\"true\" description=\"Create\"><div index=\"21\" description=\"Create\"></div></button></div></scroll></div></div></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 20,
+            "type": "Unintended Modification"
+        }
+    ]
+}

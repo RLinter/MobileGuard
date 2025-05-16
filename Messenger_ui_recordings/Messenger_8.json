@@ -1,0 +1,29 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\" id=\"content\"><div index=\"3\" id=\"(name removed)\"></div><div index=\"4\"><div index=\"5\" id=\"(name removed)\"><div index=\"6\" id=\"(name removed)\"></div><div index=\"7\" id=\"(name removed)\"></div><div index=\"8\" id=\"(name removed)\"></div><div index=\"9\" id=\"(name removed)\"></div><div index=\"10\" id=\"(name removed)\"></div><div index=\"11\" id=\"(name removed)\"><div index=\"12\" id=\"(name removed)\" clickable=\"true\"><div index=\"13\"></div><div index=\"14\" id=\"(name removed)\"><div index=\"15\" id=\"(name removed)\" clickable=\"true\"><div index=\"16\" clickable=\"true\" description=\"Back\"></div><div index=\"17\" clickable=\"true\" description=\"常睿澤, Thread details\"></div><button index=\"18\" clickable=\"true\" description=\"Audio call\"></button><button index=\"19\" clickable=\"true\" long-clickable=\"true\" description=\"Video call\"></button><button index=\"20\" clickable=\"true\" description=\"Thread details\"></button></div><div index=\"21\"><div index=\"22\"><div index=\"23\"><div index=\"24\"><div index=\"25\" id=\"(name removed)\"><div index=\"26\" id=\"(name removed)\"><div index=\"27\" id=\"(name removed)\"><scroll index=\"28\" scrollable=\"true\"><div index=\"29\"><div index=\"30\"><div index=\"31\" clickable=\"true\" description=\"Profile Picture\"></div><div index=\"32\"><div index=\"33\" clickable=\"true\"><div index=\"34\" description=\"睿澤, 有投維也納大學\n還有打算投 密蘇里植物園 或 芝加哥大學\"></div></div></div></div></div><div index=\"35\" description=\"JAN 7 AT 10:02 PM\"></div><div index=\"36\"><div index=\"37\"><div index=\"38\"><div index=\"39\" clickable=\"true\"><div index=\"40\" description=\"Sheng-Jyun, 這樣我就可以去芝加哥找你了\"></div></div></div></div></div><div index=\"41\" description=\"JAN 8 AT 5:45 AM\"></div><div index=\"42\" description=\"MAY 6 AT 6:58 PM\"></div><div index=\"43\" description=\"8:17 PM\"></div><div index=\"44\"></div><div index=\"45\"></div></scroll></div></div></div></div></div><div index=\"46\" id=\"(name removed)\"><div index=\"47\" clickable=\"true\" description=\"Show more options.\"></div><div index=\"48\" clickable=\"true\" long-clickable=\"true\" description=\"Open camera.\"></div><div index=\"49\" clickable=\"true\" long-clickable=\"true\" description=\"Open photo gallery.\"></div><div index=\"50\" clickable=\"true\" long-clickable=\"true\" description=\"Open audio recorder.\"></div><div index=\"51\"><input index=\"52\" clickable=\"true\" long-clickable=\"true\" description=\"Type a message\"></input><div index=\"53\"><div index=\"54\"><div index=\"55\" clickable=\"true\" description=\"Open sticker, emoji and GIF keyboard.\"></div></div></div></div><div index=\"56\"><button index=\"57\" description=\"Send 👍\"></button></div></div></div></div></div></div></div><div index=\"58\" id=\"(name removed)\"></div></div></div><div index=\"59\" id=\"(name removed)\"><div index=\"60\" id=\"(name removed)\" clickable=\"true\"></div><div index=\"61\" id=\"(name removed)\" clickable=\"true\"><img index=\"62\" id=\"(name removed)\"><button index=\"63\" clickable=\"true\" description=\"Close\"></button></img><div index=\"64\" id=\"(name removed)\"><div index=\"65\" id=\"(name removed)\"><div index=\"66\"><div index=\"67\" id=\"(name removed)\"><div index=\"68\"><div index=\"69\"><div index=\"70\" description=\"Map information\"></div></div></div></div><div index=\"71\" id=\"(name removed)\"><button index=\"72\" id=\"(name removed)\" clickable=\"true\" description=\"Drop an adjustable pin onto the map view\"><img index=\"73\" id=\"(name removed)\"></img></button><button index=\"74\" id=\"(name removed)\" clickable=\"true\" description=\"Center the map view on your current location\"><img index=\"75\" id=\"(name removed)\"></img></button><div index=\"76\"><div index=\"77\" id=\"(name removed)\" clickable=\"true\" description=\"@2131959300\"><div index=\"78\"><p index=\"79\" id=\"(name removed)\">Start sharing live location</p><p index=\"80\" id=\"(name removed)\">for 60 minutes</p></div></div></div></div></div></div></div></div></div><div index=\"81\" id=\"(name removed)\"></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 18,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 19,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 52,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 56,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 72,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 77,
+            "type": "External Broadcast"
+        }
+    ]
+}

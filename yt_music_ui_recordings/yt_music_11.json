@@ -1,0 +1,13 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\"><div index=\"3\" id=\"action_bar_root\"><div index=\"4\" id=\"content\"><div index=\"5\" id=\"container\"><div index=\"6\" id=\"coordinator\"><div index=\"7\" id=\"touch_outside\" clickable=\"true\"></div><div index=\"8\" id=\"design_bottom_sheet\"><div index=\"9\"><scroll index=\"10\" id=\"bottom_sheet_list\"><div index=\"11\" id=\"header\"><div index=\"12\"><div index=\"13\" id=\"thumbnail_frame\"><img index=\"14\" id=\"thumbnail\"></img></div><div index=\"15\" id=\"text_container\"><p index=\"16\" id=\"title\">Let It Be</p><p index=\"17\" id=\"subtitle\" selected=\"true\">The Beatles • 63M plays</p></div></div><div index=\"18\" id=\"divider\"></div></div><div index=\"19\"><div index=\"20\"><button index=\"21\"><button index=\"22\" clickable=\"true\" description=\"Play next\"><img index=\"23\"></img></button><div index=\"24\" description=\"Play next\"></div></button><button index=\"25\"><button index=\"26\" clickable=\"true\" description=\"Save to playlist\"><img index=\"27\"></img></button><div index=\"28\" description=\"Save to playlist\"></div></button><button index=\"29\"><button index=\"30\" clickable=\"true\" description=\"Share\"><img index=\"31\"></img></button><div index=\"32\" description=\"Share\"></div></button></div></div><div index=\"33\"><div index=\"34\" clickable=\"true\"><div index=\"35\" id=\"icon_container\"><img index=\"36\" id=\"icon\"></img></div><p index=\"37\" id=\"text\">Start radio</p></div></div><div index=\"38\"><div index=\"39\" clickable=\"true\"><div index=\"40\" id=\"icon_container\"><img index=\"41\" id=\"icon\"></img></div><p index=\"42\" id=\"text\">Add to queue</p></div></div><div index=\"43\"><div index=\"44\" clickable=\"true\"><div index=\"45\" id=\"icon_container\"><img index=\"46\" id=\"icon\"></img></div><p index=\"47\" id=\"text\">Go to album</p></div></div><div index=\"48\"><div index=\"49\" clickable=\"true\"><div index=\"50\" id=\"icon_container\"><img index=\"51\" id=\"icon\"></img></div><p index=\"52\" id=\"text\">Go to artist</p></div></div><div index=\"53\"><div index=\"54\" clickable=\"true\"><div index=\"55\" id=\"icon_container\"><img index=\"56\" id=\"icon\"></img></div><p index=\"57\" id=\"text\">View song credits</p></div></div><div index=\"58\"><div index=\"59\" clickable=\"true\"><div index=\"60\" id=\"icon_container\"><img index=\"61\" id=\"icon\"></img></div><p index=\"62\" id=\"text\">Pin to Speed dial</p></div></div></scroll></div></div></div></div></div></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 26,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 30,
+            "type": "External Broadcast"
+        }
+    ]
+}

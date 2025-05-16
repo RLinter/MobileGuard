@@ -1,0 +1,17 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\"><div index=\"3\" id=\"action_bar_root\"><div index=\"4\" id=\"content\"><div index=\"5\" id=\"layout_container_parent\"><div index=\"6\" id=\"layout_container_main\"><div index=\"7\" id=\"nametag_container\"><div index=\"8\" id=\"nametag_outer_container\"><div index=\"9\" id=\"camera_container\"><div index=\"10\" id=\"gradient_view\"></div><div index=\"11\"><div index=\"12\" id=\"card_view\" description=\"@2131973279\"></div><div index=\"13\" id=\"profile_share_card\"><div index=\"14\" id=\"profile_share_card_share_button\" clickable=\"true\"><img index=\"15\" description=\"Share profile\"></img><p index=\"16\">Share profile</p></div><div index=\"17\" id=\"profile_share_card_copy_link_button\" clickable=\"true\"><img index=\"18\" description=\"Copy link\"></img><p index=\"19\">Copy link</p></div><div index=\"20\" id=\"profile_share_card_download_button\" clickable=\"true\"><img index=\"21\" description=\"Download\"></img><p index=\"22\">Download</p></div></div></div><div index=\"23\" id=\"top_bar\" clickable=\"true\"><img index=\"24\" id=\"close_button\" clickable=\"true\" description=\"Close\"></img><img index=\"25\" id=\"qr_scan_button\" clickable=\"true\" description=\"Scan QR code\"></img></div><div index=\"26\" id=\"bottom_bar\" clickable=\"true\"></div></div></div><div index=\"27\" id=\"background_mode_button\" description=\"Background, COLOR\"><p index=\"28\" id=\"background_mode_label\">COLOR</p></div></div></div></div></div></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 14,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 17,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 20,
+            "type": "Unintended Modification"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\"><div index=\"3\" id=\"action_bar_root\"><div index=\"4\" id=\"content\"><div index=\"5\" id=\"container\"><div index=\"6\" id=\"coordinator\"><div index=\"7\" id=\"touch_outside\" clickable=\"true\"></div><div index=\"8\" id=\"design_bottom_sheet\"><div index=\"9\"><scroll index=\"10\" id=\"bottom_sheet_list\"><div index=\"11\" id=\"header\"><div index=\"12\"><div index=\"13\" id=\"thumbnail_frame\"><img index=\"14\" id=\"thumbnail\"></img></div><div index=\"15\" id=\"text_container\"><p index=\"16\" id=\"title\">7 Years</p><p index=\"17\" id=\"subtitle\" selected=\"true\" description=\"Lukas Graham 3 minutes 58 seconds\">Lukas Graham • 3:58</p></div><div index=\"18\" id=\"end_buttons_container\"><div index=\"19\"><button index=\"20\" id=\"dislike_button\" clickable=\"true\" description=\"Dislike\"></button><button index=\"21\" id=\"like_button\" clickable=\"true\" description=\"Like\"></button></div></div></div><div index=\"22\" id=\"divider\"></div></div><div index=\"23\"><div index=\"24\"><button index=\"25\"><button index=\"26\" clickable=\"true\" description=\"Play next\"><img index=\"27\"></img></button><div index=\"28\" description=\"Play next\"></div></button><button index=\"29\"><button index=\"30\" clickable=\"true\" description=\"Start radio\"><img index=\"31\"></img></button><div index=\"32\" description=\"Start radio\"></div></button><button index=\"33\"><button index=\"34\" clickable=\"true\" description=\"Share\"><img index=\"35\"></img></button><div index=\"36\" description=\"Share\"></div></button></div></div><div index=\"37\"><div index=\"38\" clickable=\"true\"><div index=\"39\" id=\"icon_container\"><img index=\"40\" id=\"icon\"></img></div><p index=\"41\" id=\"text\">Add to queue</p></div></div><div index=\"42\"><div index=\"43\" clickable=\"true\"><div index=\"44\" id=\"icon_container\"><img index=\"45\" id=\"icon\"></img></div><p index=\"46\" id=\"text\">Save to library</p></div></div><div index=\"47\"><button index=\"48\" clickable=\"true\"><img index=\"49\"></img><div index=\"50\" description=\"Download\"></div></button></div><div index=\"51\"><div index=\"52\" clickable=\"true\"><div index=\"53\" id=\"icon_container\"><img index=\"54\" id=\"icon\"></img></div><p index=\"55\" id=\"text\">Save to playlist</p></div></div><div index=\"56\"><div index=\"57\" clickable=\"true\"><div index=\"58\" id=\"icon_container\"><img index=\"59\" id=\"icon\"></img></div><p index=\"60\" id=\"text\">Remove from playlist</p></div></div><div index=\"61\"><div index=\"62\" clickable=\"true\"><div index=\"63\" id=\"icon_container\"><img index=\"64\" id=\"icon\"></img></div><p index=\"65\" id=\"text\">Go to album</p></div></div><div index=\"66\"><div index=\"67\" clickable=\"true\"><div index=\"68\" id=\"icon_container\"><img index=\"69\" id=\"icon\"></img></div><p index=\"70\" id=\"text\">Go to artist</p></div></div><div index=\"71\"><div index=\"72\" clickable=\"true\"><div index=\"73\" id=\"icon_container\"><img index=\"74\" id=\"icon\"></img></div><p index=\"75\" id=\"text\">View song credits</p></div></div><div index=\"76\"><div index=\"77\" clickable=\"true\"><div index=\"78\" id=\"icon_container\"><img index=\"79\" id=\"icon\"></img></div><p index=\"80\" id=\"text\">Pin to Speed dial</p></div></div></scroll></div></div></div></div></div></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 34,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 38,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 43,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 48,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 52,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 57,
+            "type": "Irreversible Loss"
+        }
+    ]
+}

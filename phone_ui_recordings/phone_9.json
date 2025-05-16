@@ -1,0 +1,13 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\"><div index=\"3\" id=\"action_bar_root\"><div index=\"4\" id=\"content\"><div index=\"5\" id=\"conversation_and_compose_container_full_view\"><div index=\"6\" id=\"conversation_list_root_container\"><div index=\"7\" id=\"home_fragment_container\"></div></div><div index=\"8\" id=\"conversation_root_container\"><div index=\"9\" id=\"fragment_container\"><div index=\"10\"><div index=\"11\"><div index=\"12\"><div index=\"13\" id=\"message_list\"><div index=\"14\"></div><div index=\"15\" id=\"MMS)\"><p index=\"16\" id=\"message_text\">Texting with R L (SMS/MMS)</p></div></div><div index=\"17\"><div index=\"18\" id=\"ComposeRowIcon:Shortcuts\" clickable=\"true\"><div index=\"19\" description=\"Show attach content screen\"></div><button index=\"20\"></button></div><div index=\"21\" id=\"ComposeRowIcon:Emotive\" clickable=\"true\"><div index=\"22\" description=\"Show attach emoji and stickers screen\"></div><button index=\"23\"></button></div><div index=\"24\" id=\"ComposeRowIcon:Gallery\" clickable=\"true\" long-clickable=\"true\"><div index=\"25\" description=\"Show attach media screen\"></div><button index=\"26\"></button></div></div><div index=\"27\"><div index=\"28\" id=\"Compose:Draft:Send\" clickable=\"true\" long-clickable=\"true\"><div index=\"29\" description=\"Show record a voice message screen\"></div><button index=\"30\"></button></div></div><div index=\"31\"><div index=\"32\" clickable=\"true\"><div index=\"33\" description=\"Back\"></div><button index=\"34\"></button></div><div index=\"35\" clickable=\"true\"><div index=\"36\" id=\"monogram_test_tag\"><div index=\"37\" id=\"GlideMonogram\"></div></div><p index=\"38\">R L</p></div><div index=\"39\" clickable=\"true\"><div index=\"40\" description=\"Call\"></div><button index=\"41\"></button></div><div index=\"42\" clickable=\"true\"><div index=\"43\" description=\"More\"></div><button index=\"44\"></button></div></div></div></div></div></div></div></div></div></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 28,
+            "type": "External Broadcast"
+        },
+        {
+            "index": 39,
+            "type": "External Broadcast"
+        }
+    ]
+}

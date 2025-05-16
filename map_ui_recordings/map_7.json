@@ -1,0 +1,17 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\"><div index=\"3\" id=\"action_bar_root\"><div index=\"4\" id=\"content\"><div index=\"5\"><div index=\"6\" id=\"mainmap_container\"><div index=\"7\" id=\"sidequest_container\"></div><div index=\"8\" id=\"custom_slider_container\"></div><div index=\"9\" id=\"home_bottom_sheet_container\"></div><div index=\"10\" id=\"fullscreens_group\"><div index=\"11\"><div index=\"12\"><div index=\"13\" id=\"mod_app_bar\"><div index=\"14\"><div index=\"15\" id=\"toolbar\"><div index=\"16\" id=\"start_section\"><button index=\"17\" id=\"nav_button\" clickable=\"true\" description=\"Navigate up\"><img index=\"18\" id=\"mod_app_bar_button_icon\"></img></button></div><div index=\"19\" id=\"title_frame\"><div index=\"20\" id=\"title_section\"><p index=\"21\" id=\"title\">New list</p><p index=\"22\" id=\"subtitle\">Ruichen Li ·   Private</p></div></div><div index=\"23\" id=\"end_section\"><div index=\"24\" id=\"end_button_start_space\"></div><div index=\"25\" id=\"action_buttons\"><button index=\"26\" clickable=\"true\">Save</button></div></div></div></div></div><div index=\"27\"><div index=\"28\"><div index=\"29\"></div></div><scroll index=\"30\" id=\"recycler_view\"><div index=\"31\"><div index=\"32\"><div index=\"33\"><div index=\"34\"><div index=\"35\"><img index=\"36\"></img><div index=\"37\"><button index=\"38\" clickable=\"true\" description=\"Choose icon\"></button></div></div><p index=\"39\">Choose icon</p></div></div></div></div><div index=\"40\"><div index=\"41\"><div index=\"42\"><input index=\"43\" clickable=\"true\" long-clickable=\"true\"></input></div></div><div index=\"44\"><div index=\"45\"><input index=\"46\" clickable=\"true\" long-clickable=\"true\"></input></div></div></div><div index=\"47\"><p index=\"48\">List type</p><div index=\"49\"><div index=\"50\"><div index=\"51\"><p index=\"52\">Private</p><p index=\"53\">Only you can view and edit</p></div><input index=\"54\" clickable=\"true\" description=\"Private\"></input></div><div index=\"55\"><div index=\"56\"><p index=\"57\">Shared</p><p index=\"58\">Anyone with the link will see the list with your Google Account name and picture</p></div><input index=\"59\" clickable=\"true\" description=\"Shared\"></input></div></div></div><div index=\"60\"><div index=\"61\"><p index=\"62\">Customize list order</p><div index=\"63\" clickable=\"true\" description=\"Customize list order\"></div></div><div index=\"64\"></div></div><div index=\"65\"></div></scroll><div index=\"66\"><div index=\"67\"><button index=\"68\" clickable=\"true\" description=\"Add place to list\"><div index=\"69\" id=\"fab_icon\"><div index=\"70\"><img index=\"71\"></img></div><div index=\"72\"><img index=\"73\"></img></div></div></button></div></div></div></div></div></div><div index=\"74\" id=\"compass_container\"><div index=\"75\"></div></div></div></div></div></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 26,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 59,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 68,
+            "type": "Unintended Modification"
+        }
+    ]
+}

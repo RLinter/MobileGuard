@@ -1,0 +1,13 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\"><div index=\"3\" id=\"action_bar_root\"><div index=\"4\" id=\"content\"><div index=\"5\"><div index=\"6\" id=\"mainmap_container\"><div index=\"7\" id=\"sidequest_container\"></div><div index=\"8\" id=\"custom_slider_container\"></div><div index=\"9\" id=\"home_bottom_sheet_container\"></div><div index=\"10\" id=\"fullscreens_group\"><div index=\"11\"><div index=\"12\"><div index=\"13\" id=\"editor_header\"><div index=\"14\" id=\"navigation_header\"><div index=\"15\"><div index=\"16\"><div index=\"17\" clickable=\"true\"><p index=\"18\">Google Visitor Experience</p></div><div index=\"19\"><button index=\"20\" id=\"terra_navigation_header_close_button\" clickable=\"true\" description=\"Close\"><div index=\"21\" description=\"Close\"></div></button></div></div></div></div></div><scroll index=\"22\" id=\"scrollingContent\"><div index=\"23\" id=\"editorContainer\"><div index=\"24\"><div index=\"25\" id=\"profile_bar\"><div index=\"26\" id=\"ugc_disclosure_info_link\" clickable=\"true\" description=\"Posting Publicly as Ruichen Li\"><div index=\"27\" id=\"ugc_disclosure_user\"><div index=\"28\" id=\"user\"><img index=\"29\" id=\"user_avatar\"></img><p index=\"30\" id=\"user_display_name\">Ruichen Li</p><p index=\"31\" id=\"user_attribution_text\">Posting publicly across Google</p></div></div><img index=\"32\" id=\"ugc_disclosure_info_icon\"></img></div></div></div><SeekBar index=\"33\" id=\"ratingFiveStar\" clickable=\"true\"><img index=\"34\" id=\"star1\"></img><img index=\"35\" id=\"star2\"></img><img index=\"36\" id=\"star3\"></img><img index=\"37\" id=\"star4\"></img><img index=\"38\" id=\"star5\"></img></SeekBar><input index=\"39\" id=\"contentEditText\" clickable=\"true\" long-clickable=\"true\"></input><button index=\"40\" id=\"addPhotosButton\" clickable=\"true\">Add photos and videos</button></div></scroll><div index=\"41\" id=\"floatingBottomBar\"><button index=\"42\" id=\"floatingBottomPostButton\" clickable=\"true\">Post</button></div></div></div></div><div index=\"43\" id=\"compass_container\"><div index=\"44\"></div></div></div></div></div></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 40,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 42,
+            "type": "External Broadcast"
+        }
+    ]
+}

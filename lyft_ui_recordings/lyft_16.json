@@ -1,0 +1,17 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\"><div index=\"3\" id=\"action_bar_root\"><div index=\"4\" id=\"content\"><div index=\"5\" id=\"rider_root_activity\"><div index=\"6\" id=\"activity_toast_coordinator_layout\"><div index=\"7\" id=\"bug_reporting_root\"><div index=\"8\"></div></div><div index=\"9\"><div index=\"10\" id=\"menu_drawer\"><div index=\"11\" id=\"content_view\"><div index=\"12\" id=\"core_ui_appbanner_container\"></div><div index=\"13\"><div index=\"14\"><div index=\"15\" id=\"inset_wrapper\"><div index=\"16\"></div><div index=\"17\" id=\"secondary_screen_container\"><div index=\"18\"></div></div><div index=\"19\" id=\"content_container\"><div index=\"20\" id=\"launch_animation_container\"></div><div index=\"21\" id=\"overlay_container\"><div index=\"22\" id=\"step_container\"></div><div index=\"23\" id=\"toast_container\"></div><div index=\"24\" id=\"floating_bar\"><div index=\"25\" id=\"transition_scene_root\"></div></div><div index=\"26\" id=\"sliding_panel\"><div index=\"27\" id=\"widgets_sliding_panel_container\"><div index=\"28\" id=\"widgets_sliding_panel_sticky_header\"><div index=\"29\" id=\"screen_root\"><div index=\"30\"></div><div index=\"31\" id=\"fullscreen_search\"><div index=\"32\" id=\"compose_view\"><div index=\"33\"><div index=\"34\"><button index=\"35\" clickable=\"true\" description=\"Close place search\"></button><div index=\"36\" clickable=\"true\"><p index=\"37\">Schedule</p><button index=\"38\"></button></div><div index=\"39\" description=\"Double tap to change the currently selected rider\"></div><div index=\"40\"><div index=\"41\"><input index=\"42\" clickable=\"true\" long-clickable=\"true\"><p index=\"43\">Start</p></input></div><div index=\"44\"><input index=\"45\" clickable=\"true\" long-clickable=\"true\"><p index=\"46\">Destination</p></input></div></div><button index=\"47\" clickable=\"true\" description=\"Add a stop\"></button><div index=\"48\"><div index=\"49\" clickable=\"true\"><p index=\"50\" description=\"Work\">Work</p><p index=\"51\" description=\"1395 Charleston Rd, Mountain View\">1395 Charleston Rd, Mountain View</p><button index=\"52\" clickable=\"true\" description=\"Edit work shortcut\"></button></div><div index=\"53\" clickable=\"true\"><p index=\"54\">Add Home</p></div><div index=\"55\" clickable=\"true\"><p index=\"56\">Add Shortcut</p></div><div index=\"57\" clickable=\"true\"><p index=\"58\">Current location</p></div><div index=\"59\" clickable=\"true\"><p index=\"60\">Set on map</p></div></div></div></div></div></div></div></div></div></div></div><div index=\"61\" id=\"map_container\"><div index=\"62\"></div><div index=\"63\"></div><div index=\"64\" clickable=\"true\" description=\"Showing a Map created with MapLibre. Scroll by dragging two fingers. Zoom by pinching two fingers.\" long-clickable=\"true\"><div index=\"65\"></div></div></div><div index=\"66\" id=\"status_bar_underlay\"><div index=\"67\" id=\"panel_status_bar_underlay\"></div></div></div></div></div></div></div></div></div><div index=\"68\"><div index=\"69\" id=\"overlay_container\"><div index=\"70\"></div></div></div></div></div></div></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 52,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 53,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 55,
+            "type": "Unintended Modification"
+        }
+    ]
+}

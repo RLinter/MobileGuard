@@ -1,0 +1,13 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\" id=\"content\"><scroll index=\"3\"><div index=\"4\" id=\"grant_singleton\" clickable=\"true\"><div index=\"5\" id=\"grant_dialog\" clickable=\"true\"><div index=\"6\" id=\"content_container\"><div index=\"7\"><img index=\"8\" id=\"permission_icon\"></img><p index=\"9\" id=\"permission_message\">Allow Instagram to access photos and videos on this device?</p></div></div><div index=\"10\"><button index=\"11\" id=\"permission_allow_selected_button\" clickable=\"true\">Allow limited access</button><button index=\"12\" id=\"permission_allow_all_button\" clickable=\"true\">Allow all</button><button index=\"13\" id=\"permission_deny_button\" clickable=\"true\">Don’t allow</button></div></div></div></scroll></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 11,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 12,
+            "type": "Unintended Modification"
+        }
+    ]
+}

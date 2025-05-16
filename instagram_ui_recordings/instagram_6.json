@@ -1,0 +1,49 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\"><div index=\"3\" id=\"action_bar_root\"><div index=\"4\" id=\"content\"><div index=\"5\"><div index=\"6\" id=\"swipe_navigation_container\"><div index=\"7\" id=\"layout_container_center_right_coordinator_layout\"><div index=\"8\" id=\"activity_and_camera_shared_views_main_container\"></div><div index=\"9\" id=\"layout_container_main_panel\"><div index=\"10\" id=\"layout_container_main_wrapper\"><div index=\"11\" id=\"layout_container_main\"><div index=\"12\"><scroll index=\"13\" id=\"edit_profile_fields\" scrollable=\"true\"><div index=\"14\"><div index=\"15\" id=\"profile_pic_and_avatar_container\"><div index=\"16\" id=\"profile_pic_wrapper\"><img index=\"17\" id=\"profile_pic_imageview\" clickable=\"true\" description=\"Edit profile picture\"></img><img index=\"18\" id=\"profile_pic_birthday_confetti_imageview\"></img><img index=\"19\" id=\"profile_pic_overlay_imageview\"></img></div><div index=\"20\"><button index=\"21\" id=\"avatar_view\" clickable=\"true\" description=\"Edit avatar\"><div index=\"22\" id=\"coin_flip_layout\"><img index=\"23\" id=\"circle_background\"></img><img index=\"24\" id=\"avatar\"></img></div></button></div></div><button index=\"25\" id=\"change_avatar_button\" clickable=\"true\">Change profile picture</button><div index=\"26\"><button index=\"27\" id=\"full_name\" clickable=\"true\"><div index=\"28\" id=\"prism_form_field_container\" clickable=\"true\"><p index=\"29\" id=\"form_field_label_top\">Name</p><input index=\"30\" clickable=\"true\" long-clickable=\"true\"></input></div></button><div index=\"31\" id=\"username\"><div index=\"32\" id=\"prism_form_field_container\" clickable=\"true\"><p index=\"33\" id=\"form_field_label_top\">Username</p><input index=\"34\" clickable=\"true\" long-clickable=\"true\"></input></div></div><button index=\"35\" id=\"pronouns\" clickable=\"true\"><div index=\"36\" id=\"prism_form_field_container\" clickable=\"true\"><p index=\"37\" id=\"form_field_label_inline\">Pronouns</p><input index=\"38\" clickable=\"true\" long-clickable=\"true\"></input></div></button><button index=\"39\" id=\"bio\" clickable=\"true\"><div index=\"40\" id=\"prism_form_field_container\" clickable=\"true\"><p index=\"41\" id=\"form_field_label_top\">Bio</p><input index=\"42\" clickable=\"true\" long-clickable=\"true\"></input></div></button><div index=\"43\" id=\"links_text_cell\" clickable=\"true\" description=\"Links, 1\"><div index=\"44\"><p index=\"45\" id=\"igds_textcell_title\">Links</p></div><div index=\"46\"><p index=\"47\" id=\"igds_textcell_detail\">1</p></div></div><div index=\"48\" id=\"banner_text_cell\" clickable=\"true\" description=\"Banners, 1\"><div index=\"49\"><p index=\"50\" id=\"igds_textcell_title\">Banners</p></div><div index=\"51\"><p index=\"52\" id=\"igds_textcell_detail\">1</p></div></div><div index=\"53\" id=\"gender\" clickable=\"true\"><div index=\"54\" id=\"prism_form_field_container\" clickable=\"true\"><p index=\"55\" id=\"form_field_label_top\">Gender</p><button index=\"56\" clickable=\"true\" long-clickable=\"true\">Male</button><img index=\"57\" id=\"form_field_picker_icon\"></img></div></div><div index=\"58\" id=\"personal_profile_music_settings_stub\" clickable=\"true\" description=\"Music\"><div index=\"59\"><p index=\"60\" id=\"header_text\">Music</p><p index=\"61\" id=\"detail_text\">Add music to your profile</p><img index=\"62\" id=\"chevron_right\"></img></div><div index=\"63\" id=\"music_top_divider\"></div></div><div index=\"64\" id=\"toggle_barcelona_badge\"><div index=\"65\" id=\"toggle_barcelona_switch_cell\" clickable=\"true\" description=\"Show Threads badge, When turned off, the Instagram badge on your Threads profile will also disappear.\"><div index=\"66\"><p index=\"67\" id=\"igds_textcell_title\">Show Threads badge</p><button index=\"68\" id=\"igds_textcell_subtitle\" clickable=\"true\">When turned off, the Instagram badge on your Threads profile will also disappear.</button></div><div index=\"69\" id=\"textcell_add_on_button_container\" clickable=\"true\"><div index=\"70\" id=\"igds_textcell_switch\" clickable=\"true\"></div></div></div></div><div index=\"71\" id=\"edit_profile_divider\"></div><div index=\"72\" id=\"business_conversion_section\"><button index=\"73\" id=\"business_conversion_entry\" clickable=\"true\">Switch to professional account</button></div></div></div></scroll></div></div><div index=\"74\" id=\"action_bar_container\"><div index=\"75\" id=\"action_bar_wrapper\"><div index=\"76\" id=\"action_bar\" clickable=\"true\"><div index=\"77\" id=\"action_bar_new_title_container\" clickable=\"true\"><img index=\"78\" id=\"action_bar_button_back\" clickable=\"true\" description=\"Back\"></img><div index=\"79\"><div index=\"80\" id=\"action_bar_title_and_icons\"><p index=\"81\" id=\"action_bar_title\" description=\"Edit profile\">Edit profile</p></div></div></div></div></div></div></div></div></div><div index=\"82\" id=\"bottom_sheet_camera_container\"></div></div><div index=\"83\" id=\"modal_container\"></div><div index=\"84\" id=\"overlay_layout_container\"></div></div></div></div></div></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 17,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 21,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 25,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 30,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 34,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 38,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 42,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 56,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 58,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 68,
+            "type": "Unintended Modification"
+        },
+        {
+            "index": 73,
+            "type": "Unintended Modification"
+        }
+    ]
+}

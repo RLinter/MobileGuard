@@ -1,0 +1,9 @@
+{
+    "html": "<div index=\"0\"><div index=\"1\"><div index=\"2\"><div index=\"3\"><div index=\"4\" id=\"content\"><div index=\"5\"><div index=\"6\"><scroll index=\"7\" id=\"fre_pager\"><scroll index=\"8\" scrollable=\"true\"><div index=\"9\"><div index=\"10\"><div index=\"11\"><scroll index=\"12\"><div index=\"13\"><img index=\"14\" id=\"fre_logo\"></img><p index=\"15\" id=\"title\">Make Chrome your own</p><p index=\"16\" id=\"subtitle\">Sign in to get your bookmarks, passwords, and more on all your devices</p><div index=\"17\" id=\"signin_fre_selected_account\" clickable=\"true\" description=\"Sheng-Jyun Cai (Jim), yrt12378@gmail.com currently selected. Choose an account.\"><img index=\"18\" id=\"account_image\"></img><div index=\"19\"><p index=\"20\" id=\"account_text_primary\">Sheng-Jyun Cai (Jim)</p><p index=\"21\" id=\"account_text_secondary\">yrt12378@gmail.com</p></div><img index=\"22\" id=\"signin_fre_selected_account_expand_icon\"></img></div><button index=\"23\" id=\"signin_fre_continue_button\" clickable=\"true\">Continue as Sheng-Jyun</button><button index=\"24\" id=\"signin_fre_dismiss_button\" clickable=\"true\">Use without an account</button></div></scroll><div index=\"25\" id=\"fre_footer_viewgroup\"><p index=\"26\" id=\"signin_fre_footer\" long-clickable=\"true\">By continuing, you agree to the Terms of Service. To help improve the app, Chrome sends usage and crash data to Google. Manage</p></div></div></div></div></scroll></scroll></div></div></div></div></div></div><div index=\"27\" id=\"statusBarBackground\"></div><div index=\"28\" id=\"navigationBarBackground\"></div></div>",
+    "unsafe_transition": [
+        {
+            "index": 25,
+            "type": "External Broadcast"
+        }
+    ]
+}
